@@ -65,7 +65,7 @@ input {
         cursor:pointer;
 }
 
-.botonBuscar:hover{
+.buttonSearch:hover{
       background-color: #3C97AD; 
       color: #232731;
       border-color: #3C97AD; 
